@@ -1,0 +1,9 @@
+C:\Users\vitalie.papusa\Desktop\MyProject\MyLibrary\MyLibrary\bin\Debug\MyLibrary.exe.config
+C:\Users\vitalie.papusa\Desktop\MyProject\MyLibrary\MyLibrary\bin\Debug\MyLibrary.exe
+C:\Users\vitalie.papusa\Desktop\MyProject\MyLibrary\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\vitalie.papusa\Desktop\MyProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache
+C:\Users\vitalie.papusa\Desktop\MyProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.exe
+C:\Users\vitalie.papusa\Desktop\MyProject\MyLibrary\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\vitalie.papusa\Desktop\MyProject\MyLibrary\MyLibrary\bin\Debug\MvcMiniProfiler.dll
+C:\Users\vitalie.papusa\Desktop\MyProject\MyLibrary\MyLibrary\bin\Debug\MvcMiniProfiler.pdb
+C:\Users\vitalie.papusa\Desktop\MyProject\MyLibrary\MyLibrary\bin\Debug\MvcMiniProfiler.xml
