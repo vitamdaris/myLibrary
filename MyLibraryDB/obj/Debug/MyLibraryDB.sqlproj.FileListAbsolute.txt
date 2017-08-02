@@ -1,0 +1,9 @@
+C:\Users\vitalie.papusa\Desktop\MyLibrary\MyLibraryDB\bin\Debug\MyLibraryDB.dacpac
+C:\Users\vitalie.papusa\Desktop\MyLibrary\MyLibraryDB\obj\Debug\MyLibraryDB.dll
+C:\Users\vitalie.papusa\Desktop\MyLibrary\MyLibraryDB\obj\Debug\MyLibraryDB.pdb
+C:\Users\vitalie.papusa\Desktop\MyLibrary\MyLibraryDB\bin\Debug\MyLibraryDB.dll
+C:\Users\vitalie.papusa\Desktop\MyLibrary\MyLibraryDB\bin\Debug\MyLibraryDB.pdb
+C:\Users\vitalie.papusa\Desktop\MyLibrary\MyLibraryDB\obj\Debug\Model.xml
+C:\Users\vitalie.papusa\Desktop\MyLibrary\MyLibraryDB\obj\Debug\refactor.xml
+C:\Users\vitalie.papusa\Desktop\MyLibrary\MyLibraryDB\obj\Debug\postdeploy.sql
+C:\Users\vitalie.papusa\Desktop\MyLibrary\MyLibraryDB\obj\Debug\predeploy.sql

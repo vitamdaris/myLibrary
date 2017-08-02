@@ -7,7 +7,14 @@ namespace MyLibrary
 {
     abstract public class Person
     {
-        private string firstName;
-        private string secondName;
+        protected string firstName { get; set; }
+        protected string secondName { get; set; }
+
+        public Person() { }
+        public Person(string name, string secondName)
+        {
+            this.firstName = name;
+            this.secondName = secondName;
+        }
     }
 }

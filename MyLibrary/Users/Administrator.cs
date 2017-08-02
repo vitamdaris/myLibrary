@@ -5,8 +5,10 @@ using System.Text;
 
 namespace MyLibrary
 {
-    public class Administrator:User
+    public class Administrator : User
     {
+
+        public Administrator() { }
         public IUser User { get; }
 
         public void setModerator()

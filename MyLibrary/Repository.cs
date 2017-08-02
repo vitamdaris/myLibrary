@@ -11,12 +11,13 @@ namespace MyLibrary
     public class Repository<T> where T : Entity 
 
     {
-        protected List<T> _myData;
-
+        protected List<T> _myData = new List<T>();
 
         public void Insert(T entity)
         {
-             _myData.Add(entity);
+            _myData.Add(entity);
+            Console.WriteLine("Everything is okay");
+
         }
 
         public void Delete(T entity)

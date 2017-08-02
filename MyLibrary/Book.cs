@@ -17,7 +17,7 @@ namespace MyLibrary
             set;
         }
 
-        public Author author
+        public int idAuthor
         {
             get;
             set;
@@ -43,23 +43,23 @@ namespace MyLibrary
             get;
             set;
         }
-            public bool Borrowable
-            {
-                get;
-                set;
-            }
-            public string ISBN
-            {
-                get;
-                set;
-            }
-            public typeOfGenre genre
-            {
-                get;
-                set;
-            }
+        public bool Borrowable
+        {
+            get;
+            set;
+        }
+        public string ISBN
+        {
+            get;
+            set;
+        }
+        public typeOfGenre genre
+        {
+            get;
+            set;
+        }
 
-     
+
 
 
         //constructors
@@ -68,11 +68,23 @@ namespace MyLibrary
 
         }
 
-        public Book(string paramTitle, Author paramAuthor, int paramNoOfPages, string paramLanguage, int paramYear, string paramISBN,
+        public Book(string Title, string Language)
+        {
+            title = Title;
+            language = Language;
+        }
+
+        public Book(string Title, string Language, int idAuthor)
+        {
+            title = Title;
+            language = Language;
+            this.idAuthor = idAuthor;
+        }
+        public Book(string paramTitle, int paramAuthor, int paramNoOfPages, string paramLanguage, int paramYear, string paramISBN,
             typeOfGenre paramGenre)
         {
             title = paramTitle;
-            author = paramAuthor;
+            idAuthor = paramAuthor;
             NoOfPages = paramNoOfPages;
             language = paramLanguage;
             year = paramYear;

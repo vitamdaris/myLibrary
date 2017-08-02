@@ -1,0 +1,24 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The table [dbo].[Language] is being dropped and re-created since all non-computed columns within the table have been
+         redefined.
+
+** User actions
+     Drop
+       [dbo].[Language] (Table)
+     Create
+       [dbo].[Language] (Table)
+       [dbo].[Book] (Table)
+       Default Constraint: unnamed constraint on [dbo].[Book] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Book] (Default Constraint)
+
+** Supporting actions
+
+The table [dbo].[Language] is being dropped and re-created since all non-computed columns within the table have been redefined.
+

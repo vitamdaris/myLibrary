@@ -5,15 +5,11 @@ using System.Text;
 
 namespace MyLibrary
 {
-    public class User
+    public class User:Person,IUser
     {
-        public IUser IeUser
-        {
-            get => default(IUser);
-            set
-            {
-            }
-        }
+
+        public User() { }
+        public User(string name, string secondName):base(name,secondName) { }
 
         // methods
         public void addBook() { }
